@@ -1,4 +1,4 @@
-# media
+# math-review-76
 
 ![1](https://github.com/js8developer/media/assets/36863375/64e777ab-387d-4b84-9a2b-203c822e4f58)
 ![5](https://github.com/js8developer/media/assets/36863375/095ef772-94c3-43e1-968f-2aee0a24581f)
